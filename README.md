@@ -1,1 +1,1 @@
-# fullstackopen
+# Full Stack Open submission repo
